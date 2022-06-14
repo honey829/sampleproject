@@ -1,7 +1,7 @@
 # sampleproject
 
-Install
+Install ->
 npm install
 
-start the sample app
+start the sample app -> 
 npm start
